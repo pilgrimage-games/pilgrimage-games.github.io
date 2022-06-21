@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#splash {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+#splash-logo {
+    font-family: "Bebas Neue";
+    font-size: 6em;
+}
+
+#splash-msg {
+    font-family: "Teko";
+    font-size: 3em;
+}
+
