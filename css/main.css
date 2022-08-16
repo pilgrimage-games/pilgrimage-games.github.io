@@ -1,8 +1,42 @@
+@font-face {
+    font-family: "Bebas Neue";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/bebas-neue.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Teko";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/teko.woff2") format("woff2");
+}
+
 html, body {
     background-color: #000000;
     color: #FFFFFF;
+    font-family: "Teko";
     height: 100%;
     margin: 0;
+}
+
+#nav {
+    align-items: center;
+    display: flex;
+    font-family: "Bebas Neue";
+    height: 50px;
+    margin-top: 5px;
+    position: fixed;
+    width: 100%;
+}
+
+#nav-logo {
+    height: 50px;
+    margin: 10px 10px 0px 10px;
+}
+
+#nav-title {
+    font-size: 2.5em;
 }
 
 #splash {
@@ -15,17 +49,11 @@ html, body {
     width: 100%;
 }
 
-#splash-logo {
+#splash-banner {
     height: 60%;
 }
 
-#splash-logo-text {
-    font-family: "Bebas Neue";
-    font-size: 6em;
-}
-
 #splash-msg {
-    font-family: "Teko";
     font-size: 3em;
 }
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="1474.56pt"
+    height="1474.56pt"
+    viewBox="0 0 1474.56 1474.56">
+<style>
+@font-face {
+    font-family: "Bebas Neue";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/bebas-neue.woff2") format("woff2");
+}
+</style>
+<defs/>
+<rect id="shape0" transform="matrix(0.596183475880949 -0.802847971737052 0.802847971737052 0.596183475880949 66.2012293653653 1147.05832050665)" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="1342.08" height="106.56"/><rect id="shape1" transform="matrix(0.999999801317875 0 0 0.999999801317875 -69.1199862670914 -80.6399839782735)" fill="#000000" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="1616.4" height="1645.2"/><text id="shape01" krita:useRichText="true" krita:textVersion="2" transform="matrix(0.72429898667962 0.68948573627789 -0.68948573627789 0.72429898667962 1.21965889583378 1021.38449558282)" fill="#ffffff" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" font-family="Bebas Neue" font-size="2000" font-size-adjust="0.538577" font-stretch="normal" letter-spacing="0" word-spacing="0"><tspan x="0">P</tspan></text><text id="shape02" krita:useRichText="true" krita:textVersion="2" transform="matrix(0.72429898667962 0.68948573627789 -0.68948573627789 0.72429898667962 313.506803060693 846.771222995867)" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" font-family="Bebas Neue" font-size="1300" font-size-adjust="0.538577" font-stretch="normal" letter-spacing="0" word-spacing="0"><tspan x="0">P</tspan></text><path id="shape03" transform="matrix(0.999967902602727 0.00797696531165341 -0.00797696531165341 0.999967902602727 446.837270396665 412.598015393488)" fill="none" stroke="#ffffff" stroke-width="14.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M542.662 0L0 573.135" sodipodi:nodetypes="cc"/><path id="shape04" transform="matrix(0.999791556503196 -0.0204029840013444 -0.0204029840013444 -0.999791556503196 995.681646842838 706.394464727966)" fill="none" stroke="#ffffff" stroke-width="14.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M274.295 0L0 289.698" sodipodi:nodetypes="cc"/>
+</svg>
