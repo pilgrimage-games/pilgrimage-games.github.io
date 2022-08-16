@@ -1,1 +1,1 @@
-# pilgrimage-games.github.io
+# [Pilgrimage Games](https://pilgrimagegames.com)
