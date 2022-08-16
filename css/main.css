@@ -23,17 +23,16 @@ html, body {
 #nav {
     align-items: center;
     display: flex;
-    height: 50px;
-    position: fixed;
     font-family: "Bebas Neue";
     height: 50px;
     margin-top: 5px;
+    position: fixed;
     width: 100%;
 }
 
 #nav-logo {
-    margin: 10px 10px 0px 10px;
     height: 50px;
+    margin: 10px 10px 0px 10px;
 }
 
 #nav-title {
