@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1475 1475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2;">
+<style>
+@font-face {
+    font-family: "Bebas Neue";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/bebas-neue.woff2") format("woff2");
+}
+</style>
+    <g id="Background" transform="matrix(1,0,0,1,-69.12,-80.64)">
+        <rect x="0" y="0" width="1616.4" height="1645.2"/>
+    </g>
+    <g id="Outer-P" serif:id="Outer P" transform="matrix(0.724299,0.689486,-0.689486,0.724299,19.2197,1112.1)">
+        <text x="0px" y="0px" style="font-family:'BebasNeue-Regular', 'Bebas Neue', sans-serif;font-size:2000px;fill:white;">P</text>
+    </g>
+    <g id="Inner-P" serif:id="Inner P" transform="matrix(0.724299,0.689486,-0.689486,0.724299,331.507,937.491)">
+        <text x="0px" y="0px" style="font-family:'BebasNeue-Regular', 'Bebas Neue', sans-serif;font-size:1300px;">P</text>
+    </g>
+    <g id="Left-Line" serif:id="Left Line" transform="matrix(0.999968,0.00797696,-0.00797696,0.999968,464.837,503.318)">
+        <path d="M542.662,0L0,573.135" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:14.4px;"/>
+    </g>
+    <g id="Right-Line" serif:id="Right Line" transform="matrix(0.999791,-0.020403,-0.020403,-0.999791,1013.68,797.114)">
+        <path d="M274.295,0L0,289.698" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:14.4px;"/>
+    </g>
+</svg>
